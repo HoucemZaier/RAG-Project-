@@ -1,5 +1,3 @@
-# RAG-Project
-=======
 # 🎯 Système RAG - Retrieval-Augmented Generation
 
 Système complet et intelligent de **Retrieval-Augmented Generation** pour interroger vos documents personnalisés avec l'IA locale.
