@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RAG-Project
 =======
 # 🎯 Système RAG - Retrieval-Augmented Generation
@@ -463,4 +462,4 @@ Projet créé avec ❤️ pour les systèmes RAG locaux
 ---
 
 **Dernière mise à jour**: 19 Avril 2026 | **Version**: 2.0 avec RAGAS
->>>>>>> 0491b5a (add project files)
+
