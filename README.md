@@ -451,13 +451,4 @@ Pour obtenir de l'aide ou contribuer:
 2. Consulter [IMPROVEMENTS.md](IMPROVEMENTS.md) pour les détails techniques
 3. Adapter la configuration dans `src/config.py`
 
----
-
-## 📄 Licence
-
-Projet créé avec ❤️ pour les systèmes RAG locaux 
-
----
-
-**Dernière mise à jour**: 19 Avril 2026 | **Version**: 2.0 avec RAGAS
 
